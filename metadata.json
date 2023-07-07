@@ -1,0 +1,81 @@
+{
+  "sounds" : [
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/red-7991\/",
+      "tintColor" : "FF3B30",
+      "customSortIndex" : 0,
+      "name" : "Red",
+      "color" : "FF3B30"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/orange-7988\/",
+      "tintColor" : "FF9500",
+      "customSortIndex" : 1,
+      "name" : "Orange",
+      "color" : "FF9500"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/yellow-7993\/",
+      "tintColor" : "FFCC00",
+      "customSortIndex" : 2,
+      "name" : "Yellow",
+      "color" : "FFCC00"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/green-7987\/",
+      "tintColor" : "34C759",
+      "customSortIndex" : 3,
+      "name" : "Green",
+      "color" : "34C759"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/blue-7985\/",
+      "tintColor" : "007AFF",
+      "customSortIndex" : 4,
+      "name" : "Blue",
+      "color" : "007AFF"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/purple-7990\/",
+      "tintColor" : "AF43EB",
+      "customSortIndex" : 5,
+      "name" : "Purple",
+      "color" : "AF43EB"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/pink-7989\/",
+      "tintColor" : "DE789D",
+      "customSortIndex" : 6,
+      "name" : "Pink",
+      "color" : "DE789D"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/white-7992\/",
+      "tintColor" : "D6D6D6",
+      "customSortIndex" : 7,
+      "name" : "White",
+      "color" : "D6D6D6"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/black-7984\/",
+      "tintColor" : "000000",
+      "customSortIndex" : 8,
+      "name" : "Black",
+      "color" : "000000"
+    },
+    {
+      "audioSource" : "https:\/\/pixabay.com\/sound-effects\/brown-7986\/",
+      "tintColor" : "734C16",
+      "customSortIndex" : 9,
+      "name" : "Brown",
+      "color" : "734C16"
+    }
+  ],
+  "color" : "FF9500",
+  "image" : "jpeg",
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
+  "imageSource" : "https:\/\/unsplash.com\/photos\/QFdRUCrkTQs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+  "audioSource" : "Various",
+  "description" : "Hear the rainbow.",
+  "name" : "Colors"
+}
