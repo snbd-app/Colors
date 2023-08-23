@@ -76,6 +76,8 @@
   "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "imageSource" : "https:\/\/unsplash.com\/photos\/QFdRUCrkTQs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
   "audioSource" : "Various",
+  "duration" : 6,
+  "size" : 2457872,
   "description" : "Hear the rainbow.",
   "name" : "Colors"
 }
